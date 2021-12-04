@@ -327,7 +327,6 @@ footer {
 .contain-product {
 	display: flex;
 	flex-flow: row wrap;
-	
 	color: whitesmoke;
 }
 
